@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allikazeem
 - 👀 I’m interested in web development, mobile and desktop application development 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on web development, mobile and desktop application development
 - 📫 How to reach me allikazeem@gmail.com
 
